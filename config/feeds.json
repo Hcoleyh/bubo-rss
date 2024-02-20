@@ -7,10 +7,12 @@
   "Uncategorized": [
     "https://www.zhihu.com/rss",
     "http://rsshub.sksren.com/zhihu/daily",
-    "https://feedx.net/rss/wsj.xml",
-    "https://feedx.net/rss/wsj.xml"
+    "https://rsshub.app/telegram/channel/wsj_rss",
+    "https://feedx.net/rss/nytimes.xml",
+    "https://rsshub.app/infzm/1"
   ],
   "Tech News": [
+    "http://rsshub.sksren.com/readhub/daily",
     "https://sspai.com/feed",
     "https://www.ifanr.com/feed",
     "https://feed.appinn.com/"
