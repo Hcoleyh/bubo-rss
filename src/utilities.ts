@@ -38,7 +38,8 @@ export const getTimestamp = (obj: FeedItem): string => {
     obj.pubDate ||
     obj.isoDate ||
     obj.date ||
-    obj.date_published
+    obj.date_published ||
+    Date()
   ).toString();
   const timestamp: number = new Date(dateString).getTime();
   return isNaN(timestamp) ? dateString : timestamp.toString();
