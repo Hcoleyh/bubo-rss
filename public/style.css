@@ -26,3 +26,7 @@ summary:hover {
 .feed-url {
   color: #aaa;
 }
+
+a:visited {
+  color: #aaa !important;
+}
