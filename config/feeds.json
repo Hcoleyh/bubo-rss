@@ -1,10 +1,17 @@
 {
   "Developer": [
+    "https://www.cppstories.com/index.xml",
     "https://kill-the-newsletter.com/feeds/mlzmh2hjcb59sreb.xml",
     "https://pycoders.com/feed",
     "http://www.ruanyifeng.com/blog/atom.xml",
     "https://coolshell.cn/feed",
     "https://www.archlinuxcn.org/feed/"
+  ],
+  "Tech News": [
+    "https://rsshub.app/readhub/daily",
+    "https://sspai.com/feed",
+    "https://www.ifanr.com/feed",
+    "https://feed.appinn.com/"
   ],
   "Uncategorized": [
     "https://contes.pages.dev/feed.xml",
@@ -12,11 +19,5 @@
     "https://rsshub.app/telegram/channel/wsj_rss",
     "https://feedx.net/rss/nytimes.xml",
     "https://rsshub.app/infzm/1"
-  ],
-  "Tech News": [
-    "https://rsshub.app/readhub/daily",
-    "https://sspai.com/feed",
-    "https://www.ifanr.com/feed",
-    "https://feed.appinn.com/"
   ]
 }
